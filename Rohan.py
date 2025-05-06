@@ -18,7 +18,7 @@ import re
 IST = pytz.timezone('Asia/Kolkata')
 
 # Telegram bot token
-bot = telebot.TeleBot('7564493380:AAFgbmSZ8zrHIpyQkJGwXMfjhaBONvjBSy4')
+bot = telebot.TeleBot('8147615549:AAGW6usLYzRZzaNiDf2b0NEDM0ZaVa6qZ7E')
 
 # Configure retries for Telegram API requests
 session = requests.Session()
